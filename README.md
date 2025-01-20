@@ -55,7 +55,7 @@ Before running the project, ensure you have Python installed on your system (Pyt
   GPU: Apple M4 Pro GPU (18-core)
   ```
 ## Video Demonstration
-[Watch the video](https://drive.google.com/file/d/1oiag7NzsZJismlO4Z_CMTzZ-nXDf9ZfG/view?usp=share_link)
+https://drive.google.com/file/d/1oiag7NzsZJismlO4Z_CMTzZ-nXDf9ZfG/view?usp=share_link
 
 ## License
 
