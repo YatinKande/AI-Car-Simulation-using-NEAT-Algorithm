@@ -55,7 +55,7 @@ Before running the project, ensure you have Python installed on your system (Pyt
   GPU: Apple M4 Pro GPU (18-core)
   ```
 ## Video Demonstration
-[(https://github.com/user-attachments/assets/d65fb150-a9b2-49b3-af62-85034fdc7b55)](https://github.com/YatinKande/AI-Car-Simulation-using-NEAT-Algorithm/issues/1#issue-2798387676)
+https://github.com/user-attachments/assets/e6967506-5181-432d-b62b-c3c723ff1467
 
 ## License
 
